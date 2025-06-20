@@ -1,4 +1,4 @@
-# from-fastapi-import-FastAPI
+# Deploy FastAPI on Vercel
 06.20 This is my first experience with deployment and Fast API.
 Vercel for free deployment and hosting.
 FastAPI to enbale bakckend in Python. No frontend exists yet
